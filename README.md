@@ -15,7 +15,7 @@ I worked with the following **resources** to generate the results:
     import matplotlib.pyplot as plt
     import pandas as pd
     ```
-- **ipynb Results File**: [PyBer Challenge](PyBer_Challenge.ipynb)
+- **ipynb Results File**: [PyBer Challenge](https://htmlpreview.github.io/?https://github.com/inkyson/PyBer_Analysis/blob/master/PyBer_Challenge.html)
 
 ## **2. PyBer Analysis Results**
 - Summary of ride-sharing data by city type:
